@@ -3,5 +3,5 @@
 
     $nome = "Giovani";
     $sobrenome ="Araujo";
-    $nomeCompleto = $nome . $sobrenome;
+    $nomeCompleto = $nome . " " . $sobrenome;
 ?>
